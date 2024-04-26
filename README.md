@@ -1,26 +1,9 @@
 <p align="center">
-  <picture align="center" height="180em">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true&theme=dark"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cclvi256&include_all_commits=true&count_private=true&theme=dark" />
-  </picture>
-  <picture align="center" height="180em">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclvi256&layout=compact&theme=dark" />
-  </picture>
+  <img height="200em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Je-ne-sais-rien&count_private=true&theme=react" />
+  <img height="173.6em" align="center" src="https://github-readme-stats.vercel.app/api?username=Je-ne-sais-rien&count_private=true&hide_border=true&theme=react" />
+  <img height="173.6em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Je-ne-sais-rien&utcOffset=8&count_private=true&hide_border=true&theme=react" / >
+  <img height="159.7em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Je-ne-sais-rien&count_private=true&hide_border=true&theme=react" / >
+  <img height="159.7em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je-ne-sais-rien&layout=compact&count_private=true&hide_border=true&theme=react" />
 </p>
 
 ---
